@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hola Soy Duwan Peña 👋
+
+<script> 
+
+const Information = {
+
+   nombre: "Duwan Peña"
+
+
+}
+
+
+</script>
 
 <!--
 **duwan2112/duwan2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
