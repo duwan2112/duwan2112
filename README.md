@@ -1,28 +1,9 @@
-### Hola Soy Duwan Peña 👋
+### Hi there 👋, my name is Duwan Peña
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<script> 
+Soy un Estudiante de Ingeneria en Informatica , ademas me dedico al desarrollo web de forma autodidacta donde cada dia aprendo de este gran mundo
 
-const Information = {
+Skills:   JS / HTML / CSS / REACTJS / NODEJS / MONGODB
 
-   nombre: "Duwan Peña"
+- 🔭 I’m currently working on this page. 
 
-
-}
-
-
-</script>
-
-<!--
-**duwan2112/duwan2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
